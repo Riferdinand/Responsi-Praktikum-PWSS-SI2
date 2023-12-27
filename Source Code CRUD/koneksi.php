@@ -15,7 +15,7 @@ $query = "CREATE TABLE IF NOT EXISTS mahasiswa (
             nama char(40),
             tanggal_lahir date,
             jenis_kelamin varchar(1),
-            ip float
+            ipk float
           )";
 
 mysqli_query($koneksi, $query);

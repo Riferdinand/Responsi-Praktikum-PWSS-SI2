@@ -12,8 +12,9 @@
         Nama: <input type="text" name="nama" required><br>
         Tanggal Lahir: <input type="date" name="tanggal_lahir" required><br>
         Jenis Kelamin (P/W): <input type="text" name="jenis_kelamin" maxlength="1" required><br>
-        IP: <input type="text" name="ip" required><br>
+        IPK: <input type="text" name="ipk" required><br><br>
         <input type="submit" value="Simpan">
+        <button onclick="location.href='viewdata.php'">Lihat Data</button>
     </form>
 </body>
 </html>
