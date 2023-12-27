@@ -19,4 +19,6 @@ $query = "CREATE TABLE IF NOT EXISTS mahasiswa (
           )";
 
 mysqli_query($koneksi, $query);
+echo 'Tabel telah berhasil dibuat! <br>';
+echo '<br><button onclick="location.href=\'inputdata.php\'">Input Data</button>';
 ?>
