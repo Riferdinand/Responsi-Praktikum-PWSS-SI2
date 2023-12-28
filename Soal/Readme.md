@@ -32,6 +32,8 @@ Repository ini merupakan repository yang digunakan untuk menyimpan dokumentasi s
         - <b>tanggal_lahir</b> date <br>
         - <b>jenis_kelamin</b> varhar(1). Jika user Pria maka <b>P</b>, jika Wanita maka <b>W</b><br>
         - <b>ip</b> float <br>
+          ![Screenshot 2023-12-28 100231](https://github.com/Riferdinand/Responsi-Praktikum-PWSS-SI2/assets/113415789/85b1ef98-ba9e-45a9-a7b4-1c3409b803b0)
+
     * <p>Buatlah file bernama <b>inputdata.php</b> yang digunakan untuk user dapat melakukan input data mahasiswa.</p>
     * <p>Buatlah file bernama <b>simpandata.php</b> yang digunakan untuk menyimpan data ke dalam database <b>mahasiswa</b>.</p>
     * <p>Buatlah file bernama <b>viewdata.php</b> yang digunakan untuk menampilkan data. Data yang ditampilkan boleh dalam bentuk tabel maupun tanpa tabel.</p>
