@@ -26,7 +26,7 @@ Repository ini merupakan repository yang digunakan untuk menyimpan dokumentasi s
 
 2. Buat aplikasi sederhana CRUD untuk data mahasiswa, langkah:
     * <p>Buatlah sebuah database dengan nama <b>mahasiswa</b></p>
-    * <p>Buatlah file bernama <b>koneksi.php</b> untuk membuat sebuah tabel bernama <b>pwssSI2</b> dengan field berikut:</p>
+    * <p>Buatlah file bernama <b>koneksi.php</b> untuk membuat sebuah tabel bernama <b>kelas</b> dengan field berikut:</p>
         - <b>nim</b> char(10) <br>
         - <b>nama</b> char(40) <br>
         - <b>tanggal_lahir</b> date <br>
